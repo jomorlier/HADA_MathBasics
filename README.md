@@ -6,7 +6,7 @@ Part 1 the prof will describe the mathematical basics for scientific computing a
 Part 2 you will discover the world of spectral analysis with 11 questions (already solved, your job is to play with the scripts) ( approx 1 hour) 
 
 
-To start download the repo on your computer and launch matlab 
+To start download the repo on your computer and launch matlab  (open mlx files please)
 
 Here's how to download the repo:
 
