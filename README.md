@@ -10,5 +10,5 @@ To start download the repo on your computer and launch matlab
 
 Here's how to download the repo:
 
-![repo](downloadzip.png)
+![repo](image/downloadzip.png)
 
